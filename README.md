@@ -5,6 +5,6 @@ It is a static html, css, js site with all the logic executed in the browser
 
 ## Install & run
 - Clone repo
-- Add Credentials at config.js
+- Copy config.json.default to config.json and add your credentials
 - Serve with a web server
 - Enjoy
