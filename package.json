@@ -1,0 +1,25 @@
+{
+  "name": "jumpseller-prices",
+  "version": "1.0.0",
+  "description": "Website for managing prices of a jumseller store.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apanagio/jumpseller-prices.git"
+  },
+  "author": "apanagio",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/apanagio/jumpseller-prices/issues"
+  },
+  "homepage": "https://github.com/apanagio/jumpseller-prices#readme",
+  "dependencies": {
+    "ag-grid": "^18.1.2",
+    "ag-grid-community": "^22.1.1",
+    "axios": "^0.19.0",
+    "bottleneck": "^2.19.5"
+  }
+}
